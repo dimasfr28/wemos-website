@@ -381,27 +381,6 @@ Kontribusi sangat diterima! Untuk berkontribusi:
 
 Proyek ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
 
-## 👥 Author
-
-**Dimas**
-- GitHub: [@username](https://github.com/username)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard) - Template dashboard
-- [Chart.js](https://www.chartjs.org/) - Library grafik
-- [Bootstrap](https://getbootstrap.com/) - CSS Framework
-- Komunitas Arduino dan ESP8266 Indonesia
-
-## 📞 Support
-
-Jika Anda memiliki pertanyaan atau menemukan bug, silakan:
-1. Buka [Issues](https://github.com/username/wemos-water-monitoring/issues)
-2. Email ke: your.email@example.com
-3. Diskusi di forum komunitas
-
----
-
 **Made with ❤️ for IoT Water Monitoring**
+
 # wemos-website
